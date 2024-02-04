@@ -1,0 +1,9 @@
+1.What is HTML?
+
+2.What is CSS?
+
+3.What is the difference between front-end and back-end development?
+
+4.What is JavaScript?
+
+5.What is a responsive web design?
